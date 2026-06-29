@@ -14,7 +14,7 @@ New Delhi, India
 
 ## About Me
 
-I am a Computer Science student at NSUT Delhi, focused on building tools that effectively visualize and interact with complex concepts. My project portfolio includes a range of applications, from algorithm visualizers to full-stack machine learning applications such as an Urban Heat Island predictor and a brain signal classifier. My technical foundation is built upon Python, FastAPI, React, and JavaScript. I possess a strong passion for data science and its potential for real-world impact.
+I am a Computer Science student at NSUT Delhi, focused on building tools that effectively visualize and interact with complex concepts. My project portfolio includes a range of applications, from algorithm visualizers to full-stack machine learning applications. My technical foundation is built upon Python, FastAPI, React, and JavaScript. I possess a strong passion for data science and its potential for real-world impact.
 
 **Pronouns:** he/him
 **Current Focus:** Mastering full-stack web development.
