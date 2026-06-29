@@ -43,15 +43,7 @@ I am a Computer Science student at NSUT Delhi, focused on building tools that ef
 
 <div align="center">
 
-## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=gaurav26kumar&theme=dracula&show_icons=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-
-<br>
-
-## Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav26kumar&theme=dracula&show_icons=true&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages"/>
 
 <br>
 
