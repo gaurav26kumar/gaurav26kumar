@@ -53,11 +53,6 @@ I am a Computer Science student at NSUT Delhi, focused on building tools that ef
 
 <br>
 
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=gaurav26kumar&theme=dracula&no-frame=true&bg_color=0D1117" alt="GitHub Trophies"/>
-
-<br>
 
 ## Profile Views
 
