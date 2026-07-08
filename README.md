@@ -113,8 +113,8 @@ I also enjoy building visual tools that make core CS concepts — scheduling, pa
   <img src="https://raw.githubusercontent.com/gaurav26kumar/gaurav26kumar/main/metrics.svg" alt="Metrics" />
 </p>
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gaurav26kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav26kumar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+
 
 <br>
 
@@ -122,7 +122,7 @@ I also enjoy building visual tools that make core CS concepts — scheduling, pa
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=gaurav26kumar&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
+
 
 </div>
 
