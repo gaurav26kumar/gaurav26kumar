@@ -108,8 +108,11 @@ I also enjoy building visual tools that make core CS concepts — scheduling, pa
 
 ## GitHub Stats
 
-<div align="center">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gaurav26kumar/gaurav26kumar/main/metrics.svg" alt="Metrics" />
+</p>
+<div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=gaurav26kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav26kumar&layout=compact&theme=tokyonight&hide_border=true"/>
 
