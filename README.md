@@ -88,10 +88,10 @@ I also enjoy building visual tools that make core CS concepts — scheduling, pa
 
 <tr>
 <td valign="top">
-<b>🧾 GST Compliance Web App</b><br>
-<sub>GST invoicing and compliance platform with e-way bill support, deployed on Vercel.</sub>
+<b> Snap meter Web App</b><br>
+<sub>.</sub>
 </td>
-<td valign="top"><sub>Next.js, Supabase, PostgreSQL</sub></td>
+<td valign="top"><sub></sub></td>
 </tr>
 
 <tr>
