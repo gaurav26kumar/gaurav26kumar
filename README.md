@@ -44,7 +44,7 @@ I also enjoy building visual tools that make core CS concepts — scheduling, pa
 <tr>
 <td valign="top">
 <b>🧮 Schedulix</b><br>
-<sub>Interactive CPU scheduling simulator — visualizes FCFS, SJF, Round Robin, and priority scheduling.</sub>
+<sub>Interactive CPU scheduling simulator :visualizes FCFS, SJF, Round Robin, and priority scheduling.</sub>
 </td>
 <td valign="top"><sub>JavaScript, HTML, CSS</sub></td>
 <td valign="top">
@@ -98,7 +98,7 @@ I also enjoy building visual tools that make core CS concepts — scheduling, pa
 <tr>
 <td valign="top">
 <b>📸 SnapMeter</b><br>
-<sub>PWA for reading utility meters via computer vision — camera-first capture flow with a live OCR confidence gauge. MVP shipped.</sub>
+<sub>PWA for reading utility meters via computer vision — camera first capture flow with a live OCR confidence gauge. MVP shipped.</sub>
 </td>
 <td valign="top"><sub>Next.js, Supabase, Tailwind, FastAPI, YOLOv8, EasyOCR, OpenCV</sub></td>
 </tr>
