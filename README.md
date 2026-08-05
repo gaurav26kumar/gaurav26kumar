@@ -19,7 +19,7 @@
 
 I'm a 3rd-year B.Tech student in CSE (Data Science) at NSUT, Delhi.
 I build backend systems and APIs, mostly with Python and FastAPI, backed by Postgres.
-I built **Kosh**, a GST compliance dashboard, and I'm currently working on **SnapMeter** — a computer-vision PWA that reads utility meters via OCR — and **Wellspring**, a mental wellness platform with a safety-first architecture (Safety Agent, RAG retrieval, Reflection Agent).
+I built **Kosh**, a GST compliance dashboard, and I'm currently working on **SnapMeter** — a computer-vision PWA that reads utility meters via OCR  and **Wellspring**, a mental wellness platform with a safety-first architecture (Safety Agent, RAG retrieval, Reflection Agent).
 I also enjoy building visual tools that make core CS concepts — scheduling, parsing, string matching — click.
 
 <br>
