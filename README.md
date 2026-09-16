@@ -30,10 +30,10 @@
 
 ## About
 
-- 🎓 2nd-year B.Tech student in CSE (Data Science) at NSUT, Delhi
+- 🎓 3rd-year B.Tech student in CSE (Data Science) at NSUT, Delhi
 - 🛠️ Build backend systems and APIs, mostly with Python and FastAPI, backed by Postgres
-- 🧾 Shipped **Kosh**, a GST compliance dashboard, and **SnapMeter**, a computer-vision PWA that reads utility meters via OCR
-- 🌱 Currently building **Wellspring**, an AI-powered journaling and personal-growth platform with reflective AI conversations, semantic memory retrieval, and safety-aware responses
+- 🧾 Shipped **Kosh**, a GST compliance dashboard, **Wellspring**, an AI-powered journaling and personal-growth platform with reflective AI conversations, semantic memory retrieval, and safety-aware responses
+- 🌱 Currently building **MedGround**-a rag based chat system for drug information and exploring the interactions with other drugs including their side effects.
 - 🧘 Also built **Nen (念)**, a single-file daily spiritual companion app
 - 🧩 Enjoy building visual tools that make core CS concepts — scheduling, parsing, string matching — click
 
